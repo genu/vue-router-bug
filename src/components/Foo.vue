@@ -1,3 +1,3 @@
 <template>
-    <pre>Foo</pre>
+    <pre>Hello Foo</pre>
 </template>

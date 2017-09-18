@@ -1,3 +1,3 @@
 <template>
-    <pre>Bar</pre>
+    <pre>Hello Bar</pre>
 </template>
